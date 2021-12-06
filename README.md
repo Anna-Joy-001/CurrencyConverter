@@ -1,2 +1,2 @@
 # CurrencyConverter
-Python based Basic Currency Converter 
+Python based Basic Currency Converter ( Django )
